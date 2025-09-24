@@ -1,0 +1,16 @@
+# Poetry
+poetry.lock
+.poetry/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb~
+notebooks/
+
+#data
+data/
+
+# Environments
+.env
+.venv
+.env/
